@@ -1,0 +1,9 @@
+django
+django-grappelli
+pysaml2
+djangosaml2
+python-json-logger==2.0.4
+black
+flake8
+
+

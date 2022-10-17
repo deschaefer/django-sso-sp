@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<md:EntityDescriptor xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata">
+    <ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+        {#  content here #}
+    </ds:Signature>
+</md:EntityDescriptor>

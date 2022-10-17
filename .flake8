@@ -1,0 +1,8 @@
+[flake8]
+exclude =
+    venv,
+    .git,
+    .gitignore,
+    db.sqllite3,
+    */migrations
+    */attribute-maps
